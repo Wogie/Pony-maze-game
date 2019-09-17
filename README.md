@@ -6,3 +6,5 @@ To play:
 `git clone https://github.com/Wogie/Pony-maze-game`\
 `cd Pony-maze-game`\
 `python my_maze_game.py`
+
+![](game_screenshot.png)
